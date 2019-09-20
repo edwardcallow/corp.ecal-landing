@@ -1,2 +1,2 @@
 # corp.ecal network
-corp.ecal network site landing pages.
+corp.ecal network site landing page template
