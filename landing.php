@@ -45,7 +45,7 @@
 					<p>The site is currently defined as <?php $ipv4 = file_get_contents('https://api.ipify.org'); echo $ipv4; ?> (<?php $ipv6 = file_get_contents('https://api6.ipify.org'); echo $ipv6; ?>).</p>
 					<p>Dynamic DNS is provided via Cloudflare.</p>
 					<p>
-						This server provides:
+						This server is Hostname. It provides:
 						<ul>
 							<li>DHCP</li>
 							<li>DNS</li>
